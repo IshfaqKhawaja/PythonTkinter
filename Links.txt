@@ -1,0 +1,5 @@
+use these links and pass in array links can be more in numbers
+
+
+https://uspto-effe-app.herokuapp.com/fetch/ 
+https://effectual-trademak-app.herokuapp.com/fetch/
